@@ -1,11 +1,11 @@
-8c528d96b051ea9a7ac95242786a8701 *DESCRIPTION
+f875092bb8188a26d0a1a13ebfb0a14a *DESCRIPTION
 5b194004b33443e060fa98b9fb543c1c *LICENSE
 d3e07b0c3ebd7092cafb13695db67291 *NAMESPACE
-b734856e553ebca81c9f9ad9d8f93ea1 *R/BOJ.R
-8d9b330e2ebd85264ea06c968d074d24 *build/vignette.rds
+b52332bcaf41e5ae539941dec035a326 *R/BOJ.R
+71504953fa4322a8336cab57e5e37206 *build/vignette.rds
 646940e06c58a70e23aa5eb0faf2ce2e *inst/doc/BOJ.R
 ff06ca67e9bb9cf6b69fb98692a12a3a *inst/doc/BOJ.Rmd
-df6918e12534cb3e1759f4e1e92768c5 *inst/doc/BOJ.html
+717c7f0825591dcf2fb8aab60f174b85 *inst/doc/BOJ.html
 d31ddf0e67a3587abb17a7be849f7631 *man/get_boj.Rd
 0b7236eb6aa00a33b27cbc11a75c81f4 *man/get_boj_datasets.Rd
 ff06ca67e9bb9cf6b69fb98692a12a3a *vignettes/BOJ.Rmd
