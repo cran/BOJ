@@ -1,8 +1,8 @@
 Package: BOJ
 Type: Package
 Title: Interface to Bank of Japan Statistics
-Version: 0.2.4
-Date: 2021-12-11
+Version: 0.3
+Date: 2022-01-03
 Authors@R: person("Stefan", "Angrick", email = "contact@stefanangrick.net",
                   role = c("aut", "cre", "cph"))
 Description: Provides an interface to Bank of Japan <https://www.boj.or.jp>
@@ -14,8 +14,8 @@ VignetteBuilder: knitr
 Encoding: UTF-8
 RoxygenNote: 7.1.2
 NeedsCompilation: no
-Packaged: 2021-12-11 01:24:13 UTC; qwerty
+Packaged: 2022-01-04 00:29:08 UTC; qwerty
 Author: Stefan Angrick [aut, cre, cph]
 Maintainer: Stefan Angrick <contact@stefanangrick.net>
 Repository: CRAN
-Date/Publication: 2021-12-11 18:30:02 UTC
+Date/Publication: 2022-01-04 09:10:01 UTC
